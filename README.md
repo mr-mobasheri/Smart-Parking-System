@@ -21,4 +21,4 @@ This project was a part of the Logic Circuit Design course at Amirkabir Universi
 - **Target Hardware:** FPGA
 
 ## Simulation Result
-!(docs/simulation_result.png)
+![Simulation Result](docs/simulation_result.png)
