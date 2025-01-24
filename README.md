@@ -1,4 +1,5 @@
 # Smart Parking System
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 This project implements a Smart Parking System using Verilog and FPGA technology. It manages a parking lot with 4 spaces, featuring real-time updates, entry/exit management, and visual indicators.
@@ -20,5 +21,5 @@ This project was a part of the Logic Circuit Design course at Amirkabir Universi
 - **Simulation Tools:** Icarus Verilog, GTKWave
 - **Target Hardware:** FPGA
 
-## Simulation Result
+## Simulation Results
 ![Simulation Result](docs/simulation_result.png)
